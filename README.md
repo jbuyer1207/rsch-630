@@ -1,4 +1,4 @@
-## Instructor:  Maj Jason Freels, Bldg. 640, Rm. 205B
+## Instructor - <u>Maj Jason Freels Bldg. 640, Rm. 205B</u>
 
 Email
 
