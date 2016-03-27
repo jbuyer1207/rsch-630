@@ -1,4 +1,4 @@
-## Instructor - <font style='font-weight: normal;'>Maj Jason Freels Bldg. 640, Rm. 205B</font>
+# Instructor - <font style='font-weight: normal;'>Maj Jason Freels Bldg. 640, Rm. 205B</font>
 
 Email
 
@@ -13,9 +13,9 @@ Phone
 
 ## Course Information 
 
-### Time & Location - MW 1300-1500 Bldg. 640 Rm. 232
+#### Time & Location - MW 1300-1500 Bldg. 640 Rm. 232
 
-### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules).
+#### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules).
 
 ## Course Objectives
 
