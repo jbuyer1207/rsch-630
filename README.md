@@ -1,10 +1,3 @@
-<html>
-<head>
-<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/my-stylesheet.css">
-</head>
-</html>
-
-
 ## Welcome to RSCH 630!
 
 ## Course Time and Location
