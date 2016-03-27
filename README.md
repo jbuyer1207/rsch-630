@@ -1,7 +1,3 @@
-## Welcome to RSCH 630!
-
-## Course Time/Location - MW 1300-1500 Bldg. 640 Rm. 232
-
 ## Instructor:  Maj Jason Freels, Bldg. 640, Rm. 205B
 
 Email
@@ -11,12 +7,13 @@ Email
 
 Phone 
 
-- 937-255-3636 ext. 4676<br/>(work - commercial)
-- &emsp;&ensp; 785-3636 ext. 4676<br/>(work - DSN)
-- 937-430-6619<br/>(cell)
+- (O) 937-255-3636 ext. 4676
+- (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
+- (M) 937-430-6619
 
-## Office hours
-- MTWF 1000-1100 or by appt. (subject to change depending on student schedules).
+## Course Time/Location - MW 1300-1500 Bldg. 640 Rm. 232
+
+## Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules).
 
 ## Course Objectives
 
