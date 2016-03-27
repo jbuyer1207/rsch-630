@@ -1,3 +1,8 @@
+---
+title: RSCH 630 - Research Methods
+subtitle: Spring Quarter 2016
+---
+
 ## Welcome to RSCH 630!
 
 ## Course Time and Location
@@ -12,11 +17,6 @@
 
 ## Office hours
 - MTWF 1000-1100 or by appt. (subject to change depending on student schedules).
-
-## Course Overview
-
-- A research methods course is an important foundational course for any graduate program.  
-
 
 ## Course Objectives
 
@@ -35,6 +35,58 @@
 ## Additional Resources (Textbooks)
 	 
 - [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
+
+
+## Course Overview
+- A research methods course is an important foundational course for any graduate program.  
+
+- This course is intended to expose you to a wide array of techniques to help streamline your research process
+
+- However, any collection of topics I could choose to include in this course would likely not be applicable to many of you
+
+- So, rather than having try to guess what topics would be helpful...I'm devoting one class to each of you
+
+## Approximate Course schedule (subject to change)
+
+<table>
+<thead><tr><th>Day</th><th>Date</th><th>Presenter</th><th>Topic</th><th>Notes</th></tr></thead>
+<tbody>
+  <tr> <td> Mon </td> <td> 28 Mar </td> <td> Maj Freels </td> <td> Course Overview </td> <td> None </td> </tr>
+  <tr> <td> Wed </td> <td> 30 Mar </td> <td> Maj Freels </td> <td> The AFIT Thesis </td> <td> None </td> </tr>
+  <tr> <td> Mon </td> <td> 04 Apr </td> <td> Shandon James </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 06 Apr </td> <td> Corey Degroot </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 11 Apr </td> <td> Joseph Buyer </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 13 Apr </td> <td> Michael Blaess </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 18 Apr </td> <td> Christopher Schmidt </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 20 Apr </td> <td> Blake McCollum </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 25 Apr </td> <td> John Nussbaum </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 27 Apr </td> <td> Fisal Alzahrani </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 02 May </td> <td> Keegan Vaira </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 04 May </td> <td> Lidia Toscano </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 09 May </td> <td> Robert McClanahan </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 11 May </td> <td> Victor Guinn </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 16 May </td> <td> Dustin Gooden </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 18 May </td> <td> Abdulrahman Alwabel </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 23 May </td> <td> Sean Murphy </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 25 May </td> <td> Jim Daniels III </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 30 May </td> <td> No Class </td> <td> Memorial Day </td> <td> None </td> </tr>
+  <tr> <td> Wed </td> <td> 01 Jun </td> <td> Maj Freels </td> <td> Course Wrap-up </td> <td> None </td> </tr>
+</tbody>
+</table>
+
+## Grades
+
+You will have four opportunities to demonstrate your level of understanding of the material and ability to apply the concepts to practical problems.  
+
+
+
+
+    + Identifying the <focus>specific</focus> result the research is intended to show
+
+    + Understanding (streamlining) the research path
+
+    + Understanding the structure of the data
+
 
 ## Class Content
 
@@ -56,18 +108,6 @@ A.  Mid-term Exam.  This exam will cover material contained in the first half of
 
 B.  Final Exam.  The final exam will cover material mainly from the second half of the class and will be similar in format to the midterm exam.  While the final exam is not intended to be comprehensive, some of the material covered in the second half of the class is inextricably linked to the foundational concepts covered in the first half of the class.  Therefore, make sure you understand the foundational concepts well the first time.  The expected length of the exam will be two hours.
 
-## Grades
-
-- You will have four opportunities to demonstrate your level of understanding of the material and ability to apply the concepts to practical problems.  
-
-Grade Weights
-	Weight
-Homework Assignments	15%
-Quizzes	15%
-Research Project	20%
-Midterm Exam 	25%
-Final Exam	25%
-Total	100 %
 
 ## A Few Important Dates
 - Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
@@ -81,30 +121,3 @@ Total	100 %
 - (0.83 - 0.80]: B-
 - (0.80 - 0.77]: C
 
-## Approximate Course schedule (subject to change)
-
-<table>
-<thead><tr><th>Day</th><th>Date</th><th>Presenter</th><th>Topic</th><th>Notes</th></tr></thead>
-<tbody>
-  <tr> <td> Mon </td> <td> 28 Mar </td> <td> Maj Freels </td> <td> Course Overview </td> <td> None </td> </tr>
-  <tr> <td> Wed </td> <td> 30 Mar </td> <td> Maj Freels </td> <td> Course Overview </td> <td> None </td> </tr>
-  <tr> <td> Mon </td> <td> 04 Apr </td> <td> Shandon James </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 06 Apr </td> <td> Corey Degroot </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 11 Apr </td> <td> Joseph Buyer </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 13 Apr </td> <td> Michael Blaess </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 18 Apr </td> <td> Christopher Schmidt </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 20 Apr </td> <td> Blake McCollum </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 25 Apr </td> <td> John Nussbaum </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 27 Apr </td> <td> Fisal Alzahrani </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 02 May </td> <td> Keegan Vaira </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 04 May </td> <td> Lidia Toscano </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 09 May </td> <td> Robert McClanahan </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 11 May </td> <td> Victor Guinn </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 16 May </td> <td> Dustin Gooden </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 18 May </td> <td> Abdulrahman Alwabel </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 23 May </td> <td> Sean Murphy </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 25 May </td> <td> Jim Daniels III </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 30 May </td> <td> No Class </td> <td> Memorial Day </td> <td> None </td> </tr>
-  <tr> <td> Wed </td> <td> 01 Jun </td> <td> Maj Freels </td> <td> Course Wrap-up </td> <td> None </td> </tr>
-</tbody>
-</table>
