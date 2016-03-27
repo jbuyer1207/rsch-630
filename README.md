@@ -11,9 +11,11 @@ Phone
 - (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
 - (M) 937-430-6619
 
-## Course Time/Location - MW 1300-1500 Bldg. 640 Rm. 232
+## Course Information 
 
-## Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules).
+### Time & Location - MW 1300-1500 Bldg. 640 Rm. 232
+
+### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules).
 
 ## Course Objectives
 
