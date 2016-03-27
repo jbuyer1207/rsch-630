@@ -1,12 +1,33 @@
+# Instructor information
+
+#### Instructor
+
+- Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 or by appt. (subject to change depending on student schedules)
+
+#### Email
+
+- <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
+
+- <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
+
+#### Phone 
+
+- (O) 937-255-3636 ext. 4676
+
+- (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
+
+- (M) 937-430-6619
+
 # Course Information 
 
-### Time & Location 
+#### Time & Location 
 
 - MW 1300-1500 Bldg. 640 Rm. 232
 
 #### Important Dates
 
 - Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
+
 - Friday, 27 May 2016 (AETC Family Day)
 
 #### Required Text
@@ -17,8 +38,7 @@
 	 
 - [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
 
-
-# Course Objectives
+#### Course Objectives
 
 1) To provide an understanding of basic many different research techniques and concepts related to scientific inquiry. 
 
@@ -28,17 +48,11 @@
 
 4) To provide a foundation for students in designing and conducting their own research projects and determine how close to the truth they have come in their own efforts 
 
-## Course Overview
-- A research methods course is an important foundational course for any graduate program.  
+#### Course Schedule
 
-- This course is intended to expose you to a wide array of techniques to help streamline your research process
+Any collection of topics that I could have chosen to include in this course would have likely not been applicable to many of you.  So, rather than having try to guess what topics would be helpful to each of you...I'm devoting one class for you to discuss your research.  I've selected the names of each student registered for this class and randomly assigned them to a class period (see below)
 
-- However, any collection of topics I could choose to include in this course would likely not be applicable to many of you
-
-- So, rather than having try to guess what topics would be helpful...I'm devoting one class to each of you
-
-## Approximate Course schedule (subject to change)
-
+What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget...<red>I assign your grades.</red>  Therefore, the better question might be...what do I think you should do with your class?  I'm glad you asked!  See the <a href='#grades'>Grades</a> section 
 <table>
 <thead><tr><th>Day</th><th>Date</th><th>Presenter</th><th>Topic</th><th>Notes</th></tr></thead>
 <tbody>
@@ -65,33 +79,19 @@
 </tbody>
 </table>
 
-## Grades
+# Grades <a name="grades"></a>
 
-You will have four opportunities to demonstrate your level of understanding of the material and ability to apply the concepts to practical problems.  
+There will be four graded events in this course, each is described below
 
-
-
-
-    + Identifying the <focus>specific</focus> result the research is intended to show
-
-    + Understanding (streamlining) the research path
-
-    + Understanding the structure of the data
-
-
-## Class Content
-
-Class time will be divided between lectures, discussion, and application of course content.  Lectures will highlight and expand upon points covered in the readings.  The class time should be used by you to ask about concepts that are not entirely clear to you.  Although I will try to get a feel for the students’ understanding of the material, it is always helpful for me to hear it directly from you.  So, please take advantage of class time to ask about the material you don’t understand.  
-
-Homework
+#### Homework
 
 There will be homework assignments to ensure students are grasping the material.  Understanding of material is a subjective judgment based on the assignment you turn in to me.  If you show little or no work, or provide little explanation, I have no way of understanding how you arrived at your answer.  Effort is also a subjective judgment based on the professionalism of your work.  I expect that your assignments will be legible, free of misspellings, properly cited, etc.  
 
-Quizzes
+#### Quizzes
 
 There will be multiple pop quizzes throughout the quarter.  The quizzes will be given to determine the extent to which students understand the assigned reading and homework material.  The quizzes will consist of approximately ten questions or problems.  
 
-Exams
+#### Exams
 
 All exams will be administered in class and will be a closed book format—no reference materials, texts, equation sheets or notes will be allowed during the exams.  
 
@@ -100,34 +100,17 @@ A.  Mid-term Exam.  This exam will cover material contained in the first half of
 B.  Final Exam.  The final exam will cover material mainly from the second half of the class and will be similar in format to the midterm exam.  While the final exam is not intended to be comprehensive, some of the material covered in the second half of the class is inextricably linked to the foundational concepts covered in the first half of the class.  Therefore, make sure you understand the foundational concepts well the first time.  The expected length of the exam will be two hours.
 
 
+    + Identifying the <focus>specific</focus> result the research is intended to show
 
+    + Understanding (streamlining) the research path
 
-## Grading
+    + Understanding the structure of the data
+
+#### Grading
+
 - (1.00 - 0.93]: A
 - (0.93 - 0.90]: A-
 - (0.90 - 0.87]: B+
 - (0.87 - 0.83]: B
 - (0.83 - 0.80]: B-
 - (0.80 - 0.77]: C
-- 
-
-# Instructor information
-
-#### Instructor
-
-- Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 or by appt. (subject to change depending on student schedules)
-
-#### Email
-
-- <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
-
-- <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
-
-#### Phone 
-
-- (O) 937-255-3636 ext. 4676
-
-- (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
-
-- (M) 937-430-6619
-
