@@ -229,6 +229,22 @@ hr {
   background: url('../images/bg_hr.png') repeat-x center;
 }
 
+focus  {  background-color: #F39C12; 
+          border-color: orange;
+          border-radius: 10px;
+          padding: 4px 8px 5px 8px;
+          white-space: nowrap;
+          font-weight: bold;
+}
+
+red    {  color: red;     font-weight: bold; }
+blue   {  color: blue;    font-weight: bold; }
+green  {  color: green;   font-weight: bold; }
+purple {  color: purple;  font-weight: bold; }
+orange {  color: orange;  font-weight: bold; }
+brown  {  color: brown;   font-weight: bold; }
+
+
 table {
   width: 90% !important;
   border-collapse: -moz-initial;
