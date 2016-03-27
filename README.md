@@ -4,7 +4,7 @@
 
 #### Instructor
 
-- Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 or by appt. (subject to change depending on student schedules)
+Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 or by appt. (subject to change depending on student schedules)
 
 #### Email
 
