@@ -11,11 +11,16 @@ Phone
 - (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
 - (M) 937-430-6619
 
-## Course Information 
+# Course Information 
 
 #### Time & Location - MW 1300-1500 Bldg. 640 Rm. 232
 
-#### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules).
+#### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules)
+
+#### Important Dates
+
+- Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
+- Friday, 27 May 2016 (AETC Family Day)
 
 ## Course Objectives
 
@@ -108,9 +113,7 @@ A.  Mid-term Exam.  This exam will cover material contained in the first half of
 B.  Final Exam.  The final exam will cover material mainly from the second half of the class and will be similar in format to the midterm exam.  While the final exam is not intended to be comprehensive, some of the material covered in the second half of the class is inextricably linked to the foundational concepts covered in the first half of the class.  Therefore, make sure you understand the foundational concepts well the first time.  The expected length of the exam will be two hours.
 
 
-## A Few Important Dates
-- Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
-- Friday, 27 May 2016 (AETC Family Day)
+
 
 ## Grading
 - (1.00 - 0.93]: A
