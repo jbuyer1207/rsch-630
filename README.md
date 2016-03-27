@@ -4,24 +4,6 @@
 
 - MW 1300-1500 Bldg. 640 Rm. 232
 
-<h3>Instructor:</h3> Maj Jason Freels Bldg. 640, Rm. 205B
-
-- Email
-
-    - <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
-
-    - <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
-
-- Phone 
-
-    - (O) 937-255-3636 ext. 4676
-
-    - (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
-
-    - (M) 937-430-6619
-
-#### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules)
-
 #### Important Dates
 
 - Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
@@ -127,4 +109,25 @@ B.  Final Exam.  The final exam will cover material mainly from the second half 
 - (0.87 - 0.83]: B
 - (0.83 - 0.80]: B-
 - (0.80 - 0.77]: C
+- 
+
+# Instructor information
+
+#### Instructor
+
+- Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 or by appt. (subject to change depending on student schedules)
+
+#### Email
+
+- <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
+
+- <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
+
+#### Phone 
+
+- (O) 937-255-3636 ext. 4676
+
+- (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
+
+- (M) 937-430-6619
 
