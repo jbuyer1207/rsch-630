@@ -1,19 +1,23 @@
-# Instructor - <font style='font-weight: normal;'>Maj Jason Freels Bldg. 640, Rm. 205B</font>
+# Course Information 
 
-Email
+### Time & Location 
+
+- MW 1300-1500 Bldg. 640 Rm. 232
+
+### Instructor 
+
+- Maj Jason Freels Bldg. 640, Rm. 205B
+
+#### Email
 
 - <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
 - <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
 
-Phone 
+#### Phone 
 
 - (O) 937-255-3636 ext. 4676
 - (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
 - (M) 937-430-6619
-
-# Course Information 
-
-#### Time & Location - MW 1300-1500 Bldg. 640 Rm. 232
 
 #### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules)
 
@@ -22,7 +26,16 @@ Phone
 - Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
 - Friday, 27 May 2016 (AETC Family Day)
 
-## Course Objectives
+#### Required Text
+
+- None
+
+#### Additional Resources (Textbooks)
+	 
+- [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
+
+
+# Course Objectives
 
 1) To provide an understanding of basic many different research techniques and concepts related to scientific inquiry. 
 
@@ -31,15 +44,6 @@ Phone
 3) To help students not only in conducting research, but also in judging the validity of any claims made in articles and newspapers, trade journals, academic journals, briefings, presentations, and professional discussions.
 
 4) To provide a foundation for students in designing and conducting their own research projects and determine how close to the truth they have come in their own efforts 
-
-## Required Text
-
-- None
-
-## Additional Resources (Textbooks)
-	 
-- [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
-
 
 ## Course Overview
 - A research methods course is an important foundational course for any graduate program.  
