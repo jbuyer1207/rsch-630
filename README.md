@@ -4,7 +4,7 @@
 
 - MW 1300-1500 Bldg. 640 Rm. 232
 
-<h3>Instructor</h3> - Maj Jason Freels Bldg. 640, Rm. 205B
+<h3>Instructor:</h3> Maj Jason Freels Bldg. 640, Rm. 205B
 
 - Email
 
