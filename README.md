@@ -4,20 +4,21 @@
 
 - MW 1300-1500 Bldg. 640 Rm. 232
 
-### Instructor 
+<h3>Instructor</h3> - Maj Jason Freels Bldg. 640, Rm. 205B
 
-- Maj Jason Freels Bldg. 640, Rm. 205B
+- Email
 
-#### Email
+    - <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
 
-- <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
-- <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
+    - <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
 
-#### Phone 
+- Phone 
 
-- (O) 937-255-3636 ext. 4676
-- (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
-- (M) 937-430-6619
+    - (O) 937-255-3636 ext. 4676
+
+    - (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
+
+    - (M) 937-430-6619
 
 #### Office hours - TH 1300-1500 or by appt. (subject to change depending on student schedules)
 
