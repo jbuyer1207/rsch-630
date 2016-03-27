@@ -1,4 +1,4 @@
-## Instructor - <u>Maj Jason Freels Bldg. 640, Rm. 205B</u>
+## Instructor - <font style='font-weight: normal;'>Maj Jason Freels Bldg. 640, Rm. 205B</font>
 
 Email
 
