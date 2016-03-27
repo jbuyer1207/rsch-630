@@ -1,4 +1,6 @@
-# Instructor information
+# Syllabus
+
+## Instructor information
 
 #### Instructor
 
@@ -6,37 +8,31 @@
 
 #### Email
 
-- <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
+<a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
 
-- <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
+<a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
 
 #### Phone 
 
-- (O) 937-255-3636 ext. 4676
+(O) 937-255-3636 ext. 4676<br/>(O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676<br/>(M) 937-430-6619
 
-- (O) &emsp;&ensp;&nbsp; 785-3636 ext. 4676
-
-- (M) 937-430-6619
-
-# Course Information 
+## Course Information 
 
 #### Time & Location 
 
-- MW 1300-1500 Bldg. 640 Rm. 232
+MW 1300-1500 Bldg. 640 Rm. 232
 
 #### Important Dates
 
-- Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font>
-
-- Friday, 27 May 2016 (AETC Family Day)
+Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</font><br/>Friday, 27 May 2016 (AETC Family Day)
 
 #### Required Text
 
-- None
+None
 
 #### Additional Resources (Textbooks)
 	 
-- [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
+[__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
 
 #### Course Objectives
 
@@ -52,7 +48,8 @@
 
 Any collection of topics that I could have chosen to include in this course would have likely not been applicable to many of you.  So, rather than having try to guess what topics would be helpful to each of you...I'm devoting one class for you to discuss your research.  I've selected the names of each student registered for this class and randomly assigned them to a class period (see below)
 
-What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget...<red>I assign your grades.</red>  Therefore, the better question might be...what do I think you should do with your class?  I'm glad you asked!  See the <a href='#grades'>Grades</a> section 
+What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget...<red>I assign your grades.</red>  Therefore, the better question might be...what do I think you should do with your class?  I'm glad you asked!  See the <a href='#grades'>Grading</a> section 
+
 <table>
 <thead><tr><th>Day</th><th>Date</th><th>Presenter</th><th>Topic</th><th>Notes</th></tr></thead>
 <tbody>
@@ -79,7 +76,7 @@ What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget..
 </tbody>
 </table>
 
-# Grades <a name="grades"></a>
+## Grading <a name="grades"></a>
 
 There will be four graded events in this course, each is described below
 
