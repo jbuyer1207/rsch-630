@@ -1,19 +1,19 @@
----
-title: RSCH 630 - Research Methods
-subtitle: Spring Quarter 2016
----
-
 ## Welcome to RSCH 630!
 
-## Course Time and Location
-- MW 1300-1500 Bldg. 640 Rm. 232
+## Course Time/Location - MW 1300-1500 Bldg. 640 Rm. 232
 
-## Instructor and Office
-- Maj Jason Freels, Bldg. 640, Rm. 205B
-- Email: <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a>
-- Email: <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a>
-- Phone: (937) 255-3636 ext. 4676
-- Cell:  (937) 430-6619
+## Instructor:  Maj Jason Freels, Bldg. 640, Rm. 205B
+
+Email
+
+- <a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
+- <a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
+
+Phone 
+
+- 937-255-3636 ext. 4676 (work - commercial)
+- &emsp; 785-3636 ext. 4676 (work - DSN)
+- 937-430-6619  &emsp; (cell)
 
 ## Office hours
 - MTWF 1000-1100 or by appt. (subject to change depending on student schedules).
