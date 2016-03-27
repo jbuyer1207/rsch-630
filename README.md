@@ -12,8 +12,8 @@ Email
 Phone 
 
 - 937-255-3636 ext. 4676 (work - commercial)
-- &emsp; 785-3636 ext. 4676 (work - DSN)
-- 937-430-6619  &emsp; (cell)
+- &emsp;&nsp; 785-3636 ext. 4676 (work - DSN)
+- 937-430-6619  &emsp;&emsp; (cell)
 
 ## Office hours
 - MTWF 1000-1100 or by appt. (subject to change depending on student schedules).
