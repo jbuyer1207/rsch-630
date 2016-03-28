@@ -46,69 +46,8 @@ None
 
 For any collection of topics that I could've chosen to include in this course, it's unlikely that those topics would be applicable everyone.  So, rather than trying to guess what topics would be helpful...I'm giving each of you one entire class to discuss your research.  
 
-In my experience advising students (and being advised myself) it usually takes a two-hour meeting to hammer out the details for the research plan.  It helps me (as the advisor) to know that the student is proceeding on a solid path.  It helps the student as they often don't understand themselves what they're trying to achieve.
+In my experience advising students (and being advised myself) it usually takes a two-hour meeting to hammer out the details for the research plan.  It helps me (as the advisor) to know that the student is proceeding on a solid path.  It helps the student as they often don't understand themselves what they're trying to achieve. This course will be a series of those meetings 
 
-This course will be a series of those meetings 
-
-- You will...
-
-    + Share the goal(s) of your research
-
-    + Layout your plan for meeting those goals
-
-    + Propose what content you believe belongs in each section of your thesis (more on this later)
-
-- Your classmates will...
-
-    + Ask questions about your research
-
-    + Voice concerns <red>and help propose solutions</red>
-
-    + <focus>Take notes</focus>
-
-- I will...
-
-    - Help guide the discussion
-
-    - Initate <blue>time-outs</blue> to cover topics that are unfamiliar
-
-    - Collect ideas for possible test questions
-
-- And as a group we will...
-
-    - Better understand each other's research 
-
-    - Better understand your own research
-
-    - Learn about many different analytical tools & techniques 
-
-I've selected the names of each student registered for this class and randomly assigned them to a class period (see the below).  This class period belongs to you.  What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget...<red>I assign your grades.</red>  Therefore, the better question might be...what do I think you should do with your class?  I'm glad you asked!  See the <a href='#grades'>Grading</a> section 
-
-<table>
-<thead><tr><th>Day</th><th>Date</th><th>Presenter</th><th>Topic</th><th>Notes</th></tr></thead>
-<tbody>
-  <tr> <td> Mon </td> <td> 28 Mar </td> <td> Maj Freels </td> <td> Course Overview </td> <td> None </td> </tr>
-  <tr> <td> Wed </td> <td> 30 Mar </td> <td> Maj Freels </td> <td> The AFIT Thesis </td> <td> None </td> </tr>
-  <tr> <td> Mon </td> <td> 04 Apr </td> <td> Shandon James </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 06 Apr </td> <td> Corey Degroot </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 11 Apr </td> <td> Joseph Buyer </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 13 Apr </td> <td> Michael Blaess </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 18 Apr </td> <td> Christopher Schmidt </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 20 Apr </td> <td> Blake McCollum </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 25 Apr </td> <td> John Nussbaum </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 27 Apr </td> <td> Fisal Alzahrani </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 02 May </td> <td> Keegan Vaira </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 04 May </td> <td> Lidia Toscano </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 09 May </td> <td> Robert McClanahan </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 11 May </td> <td> Victor Guinn </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 16 May </td> <td> Dustin Gooden </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 18 May </td> <td> Abdulrahman Alwabel </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 23 May </td> <td> Sean Murphy </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 25 May </td> <td> Jim Daniels III </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 30 May </td> <td> No Class </td> <td> Memorial Day </td> <td> None </td> </tr>
-  <tr> <td> Wed </td> <td> 01 Jun </td> <td> Maj Freels </td> <td> Course Wrap-up </td> <td> None </td> </tr>
-</tbody>
-</table>
 
 ## Grading <a name="grades"></a>
 
