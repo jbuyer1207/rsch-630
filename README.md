@@ -23,7 +23,7 @@ Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 o
 
 #### Meeting Time & Location 
 
-MW 1300-1500 Bldg. 640 Rm. 232
+MW 1330-1530 Bldg. 640 Rm. 232
 
 #### Important Dates
 
