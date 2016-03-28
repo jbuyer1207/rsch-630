@@ -124,17 +124,11 @@ On Wednesday, 4 May I will give a take-home exam covering topics discussed in th
 
 #### The Final Presentation (25%)
 
-This initial presentation will be graded on completion - meaning that as long as it's clear that you put forth a significant effort you will get a 90% or above.  So, what represents a 'significant effort'?  We'll get to that in a minute...
+Most AFIT students make the research process harder than is necessary.  This is due to similar reasons, which we will discuss.  As result of observing 15 other students streamline their research plans, your final presentation should be more streamlined and concise.  Therefore, I will grade this presentation in detail.
 
 #### Final Exam (25%)
 
 The final exam will cover material discussed during the second half of the class and will be similar in format to the midterm exam.  While the final exam is not intended to be comprehensive, some of the material covered in the second half of the class may be linked to the concepts covered in the first half of the class.  Therefore, make sure you understand the foundational concepts well the first time.  
-
-    + Identifying the <focus>specific</focus> result the research is intended to show
-
-    + Understanding (streamlining) the research path
-
-    + Understanding the structure of the data
 
 #### Grading Scale
 
