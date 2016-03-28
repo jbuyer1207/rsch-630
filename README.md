@@ -8,9 +8,7 @@ Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 o
 
 #### Email
 
-<a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)
-
-<a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
+<a href="mailto:jason.freels@afit.edu target="_top"><b>jason.freels@afit.edu</b></a> (work)<br/><a href="mailto:auburngrads@live.com target="_top"><b>auburngrads@live.com</b></a> (home)
 
 #### Phone 
 
@@ -18,7 +16,7 @@ Maj. Jason Freels, PhD<br/>Bldg. 640, Rm. 205B<br/>Office Hours: T/H 1300-1500 o
 
 ## Course Information 
 
-#### Time & Location 
+#### Meeting Time & Location 
 
 MW 1300-1500 Bldg. 640 Rm. 232
 
@@ -30,7 +28,7 @@ Monday, 30 May 2016 (Memorial Day) - <font style='color: red;'>__No Class__</fon
 
 None
 
-#### Additional Resources (Textbooks)
+#### Optional Resources (Textbooks)
 	 
 [__Mildred L. Patten__](http://www.amazon.com/Understanding-Research-Methods-Overview-Essentials/dp/1936523000)<br/>Understanding Research Methods, 8th Ed., February 2012, Pyrczak Publishing:  Glendale, CA.
 
@@ -46,9 +44,45 @@ None
 
 #### Course Schedule
 
-Any collection of topics that I could have chosen to include in this course would have likely not been applicable to many of you.  So, rather than having try to guess what topics would be helpful to each of you...I'm devoting one class for you to discuss your research.  I've selected the names of each student registered for this class and randomly assigned them to a class period (see below)
+For any collection of topics that I could've chosen to include in this course, it's unlikely that those topics would be applicable everyone.  So, rather than trying to guess what topics would be helpful...I'm giving each of you one entire class to discuss your research.  
 
-What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget...<red>I assign your grades.</red>  Therefore, the better question might be...what do I think you should do with your class?  I'm glad you asked!  See the <a href='#grades'>Grading</a> section 
+In my experience advising students (and being advised myself) it usually takes a two-hour meeting to hammer out the details for the research plan.  It helps me (as the advisor) to know that the student is proceeding on a solid path.  It helps the student as they often don't understand themselves what they're trying to achieve.
+
+This course will be a series of those meetings 
+
+- You will...
+
+    + Share the goal(s) of your research
+
+    + Layout your plan for meeting those goals
+
+    + Propose what content you believe belongs in each section of your thesis (more on this later)
+
+- Your classmates will...
+
+    + Ask questions about your research
+
+    + Voice concerns <red>and help propose solutions</red>
+
+    + <focus>Take notes</focus>
+
+- I will...
+
+    - Help guide the discussion
+
+    - Initate <blue>time-outs</blue> to cover topics that are unfamiliar
+
+    - Collect ideas for possible test questions
+
+- And as a group we will...
+
+    - Better understand each other's research 
+
+    - Better understand your own research
+
+    - Learn about many different analytical tools & techniques 
+
+I've selected the names of each student registered for this class and randomly assigned them to a class period (see the below).  This class period belongs to you.  What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget...<red>I assign your grades.</red>  Therefore, the better question might be...what do I think you should do with your class?  I'm glad you asked!  See the <a href='#grades'>Grading</a> section 
 
 <table>
 <thead><tr><th>Day</th><th>Date</th><th>Presenter</th><th>Topic</th><th>Notes</th></tr></thead>
@@ -78,24 +112,23 @@ What should you do with <u>YOUR</u> class?  It's up to you!  But, don't forget..
 
 ## Grading <a name="grades"></a>
 
-There will be four graded events in this course, each is described below
+There will be four graded events in this course, each of them are described below
 
-#### Homework
+#### The Initial Presentation (25%)
 
-There will be homework assignments to ensure students are grasping the material.  Understanding of material is a subjective judgment based on the assignment you turn in to me.  If you show little or no work, or provide little explanation, I have no way of understanding how you arrived at your answer.  Effort is also a subjective judgment based on the professionalism of your work.  I expect that your assignments will be legible, free of misspellings, properly cited, etc.  
+This initial presentation will be graded on completion - meaning that as long as it's clear that you put forth a significant effort you will get a 90% or above.  So, what represents a 'significant effort'?  We'll get to that in a minute...
 
-#### Quizzes
+#### Mid-Term Exam (25%)
 
-There will be multiple pop quizzes throughout the quarter.  The quizzes will be given to determine the extent to which students understand the assigned reading and homework material.  The quizzes will consist of approximately ten questions or problems.  
+On Wednesday, 4 May I will give a take-home exam covering topics discussed in the first 8 presentations (27 Apr & prior).  I won't ask nit-pick questions that pertain to one person's research.  The questions on the mid-term will test your understanding of how & when to use the analytical tools discussed in class 
 
-#### Exams
+#### The Final Presentation (25%)
 
-All exams will be administered in class and will be a closed book format—no reference materials, texts, equation sheets or notes will be allowed during the exams.  
+This initial presentation will be graded on completion - meaning that as long as it's clear that you put forth a significant effort you will get a 90% or above.  So, what represents a 'significant effort'?  We'll get to that in a minute...
 
-A.  Mid-term Exam.  This exam will cover material contained in the first half of the quarter.  20-25% of the exam will cover important terms (i.e., vocabulary) that are discussed in the text or in class.  Another 20-25% will be short-answer questions that require the application of terms as given in scenarios.  The remaining 50-60% will require students to solve problems or address research issues.  The expected length of the exam is two hours.
+#### Final Exam (25%)
 
-B.  Final Exam.  The final exam will cover material mainly from the second half of the class and will be similar in format to the midterm exam.  While the final exam is not intended to be comprehensive, some of the material covered in the second half of the class is inextricably linked to the foundational concepts covered in the first half of the class.  Therefore, make sure you understand the foundational concepts well the first time.  The expected length of the exam will be two hours.
-
+The final exam will cover material discussed during the second half of the class and will be similar in format to the midterm exam.  While the final exam is not intended to be comprehensive, some of the material covered in the second half of the class may be linked to the concepts covered in the first half of the class.  Therefore, make sure you understand the foundational concepts well the first time.  
 
     + Identifying the <focus>specific</focus> result the research is intended to show
 
@@ -103,7 +136,7 @@ B.  Final Exam.  The final exam will cover material mainly from the second half 
 
     + Understanding the structure of the data
 
-#### Grading
+#### Grading Scale
 
 - (1.00 - 0.93]: A
 - (0.93 - 0.90]: A-
