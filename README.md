@@ -64,8 +64,8 @@ I've randomly assigned each of you to a specific class period as shown in the ta
   <tr> <td> Wed </td> <td> 30 Mar </td> <td> Maj Freels </td> <td> The AFIT Thesis </td> <td> None </td> </tr>
   <tr> <td> Mon </td> <td> 04 Apr </td> <td> Shandon James </td> <td> Student Research </td> <td>  </td> </tr>
   <tr> <td> Wed </td> <td> 06 Apr </td> <td> Corey Degroot </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Mon </td> <td> 11 Apr </td> <td> Joseph Buyer </td> <td> Student Research </td> <td>  </td> </tr>
-  <tr> <td> Wed </td> <td> 13 Apr </td> <td> Michael Blaess </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Mon </td> <td> 11 Apr </td> <td> Michael Blaess  </td> <td> Student Research </td> <td>  </td> </tr>
+  <tr> <td> Wed </td> <td> 13 Apr </td> <td> Joseph Buyer </td> <td> Student Research </td> <td>  </td> </tr>
   <tr> <td> Mon </td> <td> 18 Apr </td> <td> Christopher Schmidt </td> <td> Student Research </td> <td>  </td> </tr>
   <tr> <td> Wed </td> <td> 20 Apr </td> <td> Blake McCollum </td> <td> Student Research </td> <td>  </td> </tr>
   <tr> <td> Mon </td> <td> 25 Apr </td> <td> John Nussbaum </td> <td> Student Research </td> <td>  </td> </tr>
